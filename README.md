@@ -22,16 +22,16 @@ Confusion Matrix for a sample image :
   
   example input image:
   
-  [alt tag](https://raw.githubusercontent.com/ManushGupta/Land-Use-Classifier/landsatpune.png)
+  [alt tag](/landsatpune.png)
 
   corresponding output svm image :
   
-  [alt tag](https://raw.githubusercontent.com/ManushGupta/Land-Use-Classifier/svmresult.png)
+  [alt tag](/svmresult.png)
   
   The brown area is the impervious region, identified as concrete and the dark blue is water. 
   
   Comparison between SVM and Naive Bayes:
   
-  [alt tag](https://raw.githubusercontent.com/ManushGupta/Land-Use-Classifier/compare.png)
+  [alt tag](/compare.png)
   
   note: the color legend is different. The green is concrete and the light blue is water in this one.
